@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">StoringData</string>
+    <string name="enter_age">Enter age</string>
+    <string name="your_age">Your Age :</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
 </resources>
